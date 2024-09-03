@@ -16,4 +16,4 @@ Não sabemos ainda...
 
 [![Code Climate](https://codeclimate.com/github/cloudfoundry/membrane.png)](https://codeclimate.com/github/a-godoi/appx) </br>
 ![Workflow](https://github.com/a-godoi/appx/actions/workflows/ci.yml/badge.svg) </br>
-[![Coverage Status](https://coveralls.io/repos/github/a-godoi/SIN5005/badge.svg?branch=main)](https://coveralls.io/github/a-godoi/SIN5005?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/a-godoi/appx/badge.svg?branch=main)](https://coveralls.io/github/a-godoi/appx?branch=main)
