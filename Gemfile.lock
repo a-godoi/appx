@@ -366,6 +366,7 @@ DEPENDENCIES
   jbuilder
   puma (>= 5.0)
   rails (~> 7.2.1)
+  rake
   rspec-rails
   rubocop-rails-omakase
   sprockets-rails
