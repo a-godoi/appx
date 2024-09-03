@@ -1,24 +1,19 @@
-# README
+# SIN5005
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Grupo@
 
-Things you may want to cover:
+| NOME | RA | 
+|----------|:------:|
+|Carol Thomaz |
+|Guilherme Fernandes | 
+|José Luiz Borin Junior | 
+|Leonardo Cunha dos Santos | 5965830 |
+|Alécio Godoi | 
 
-* Ruby version
+# Projeto
 
-* System dependencies
+Não sabemos ainda...
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![Code Climate](https://codeclimate.com/github/cloudfoundry/membrane.png)](https://codeclimate.com/github/a-godoi/SIN5005) </br>
+![Workflow](https://github.com/a-godoi/SIN5005/actions/workflows/github-actions.yml/badge.svg) </br>
+[![Coverage Status](https://coveralls.io/repos/github/a-godoi/SIN5005/badge.svg?branch=main)](https://coveralls.io/github/a-godoi/SIN5005?branch=main)
