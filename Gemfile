@@ -57,5 +57,4 @@ group :test do
   gem "rake"
   gem "coveralls_reborn", require: false
   gem "simplecov-lcov", require: false
-  
 end
