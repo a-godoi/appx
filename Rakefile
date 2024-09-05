@@ -21,6 +21,6 @@ Cucumber::Rake::Task.new # defines a task named cucumber​
 
 require 'coveralls/rake/task'
 Coveralls::RakeTask.new
-task :test_with_coveralls => [:spec, :features, 'coveralls:push']
+task test_with_coveralls: [ :spec, :features, 'coveralls:push' ]
 
 Rails.application.load_tasks
