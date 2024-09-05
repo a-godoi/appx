@@ -12,7 +12,7 @@
 
 # Projeto
 
-Não sabemos ainda...
+EACH Pizzas é um aplicativo projetado para simplificar a administração de pizzarias, oferecendo ferramentas para gerenciar o cardápio, o estoque e os clientes, além de gerar relatórios detalhados. Com ele, os proprietários podem atualizar o cardápio, monitorar o estoque e analisar o desempenho de forma prática. Essa solução reduz custos e melhora a experiência do cliente, sendo essencial para pequenos empresários que buscam uma gestão mais eficiente e organizada.
 
 [![Code Climate](https://codeclimate.com/github/cloudfoundry/membrane.png)](https://codeclimate.com/github/a-godoi/appx) </br>
 ![Workflow](https://github.com/a-godoi/appx/actions/workflows/ci.yml/badge.svg) </br>
