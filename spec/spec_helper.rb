@@ -20,8 +20,7 @@ require 'coveralls'
 Coveralls.wear!
 SimpleCov.formatters = [
   SimpleCov::Formatter::HTMLFormatter,
-  Coveralls::SimpleCov::Formatter
-]
+  Coveralls::SimpleCov::Formatter ]
 SimpleCov.start
 #
 RSpec.configure do |config|
