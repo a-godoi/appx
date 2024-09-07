@@ -52,14 +52,4 @@ jobs:
 
       - name: Lint code for consistent style
         run: bin/rubocop -f github
-
-  # Send coverage report to Coveralls
-  coveralls:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Coveralls
-        uses: coverallsapp/github-action@master
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-
-
+    
