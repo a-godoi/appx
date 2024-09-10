@@ -4,7 +4,7 @@
 
 | NOME                                                                           |  Nº USP  |
 | ------------------------------------------------------------------------------ | :------: |
-| [Alécio Godoi](https://github.com/a-godoi)                                     |          |
+| [Alécio A P Godoi](https://github.com/a-godoi)                                 |          |
 | Carol Thomaz                                                                   |          |
 | [Guilherme Fernandes Moraes da Silva](https://github.com/GuilhermeFernandes01) | 11295629 |
 | José Luiz Borin Junior                                                         |          |
