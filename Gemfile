@@ -50,11 +50,11 @@ group :development do
   gem "web-console"
 end
 
-#group :production, :development, :test do
+# group :production, :development, :test do
 gem "cucumber-rails", require: false
 gem "rspec-rails"
 gem "capybara"
 gem "rake"
 gem "coveralls_reborn", require: false
 gem "simplecov-lcov", require: false
-#end
+# end
