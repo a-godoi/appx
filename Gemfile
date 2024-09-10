@@ -50,7 +50,7 @@ group :development do
   gem "web-console"
 end
 
-group :test do
+group :production, :development, :test do
   gem "cucumber-rails", require: false
   gem "rspec-rails"
   gem "capybara"
