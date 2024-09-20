@@ -57,6 +57,6 @@ gem "capybara"
 gem "rake"
 gem "coveralls_reborn", require: false
 gem "simplecov-lcov", require: false
-gem 'selenium-webdriver'
-gem 'database_cleaner-active_record'
+gem "selenium-webdriver"
+gem "database_cleaner-active_record"
 # end
